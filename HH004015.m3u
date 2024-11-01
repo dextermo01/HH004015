@@ -40,17 +40,17 @@ http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.iill.top/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000521
 #EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://epg.iill.top/logo/黑龙江新闻.png" group-title="黑龙江",黑龙江新闻法治
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226330/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://epg.iill.top/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
-http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://epg.iill.top/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226298/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://epg.iill.top/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226301/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江农业科教" tvg-logo="https://epg.iill.top/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://epg.iill.top/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226304/index.m3u8
+http://39.134.65.173/PLTV/88888888/224/3221225979/1.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
@@ -135,18 +135,82 @@ http://[2409:8087:74f0:22::4]:6410/270000001128/9900000058/index.m3u8?channel-id
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",TVB翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰卫视中文台
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰卫视资讯台
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰卫视香港台
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="香港",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="CAT电影" group-title="香港",CAT电影
-http://litv.zapi.us.kg/?id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="香港",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",无线新闻台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" group-title="香港",娱乐新闻台
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" group-title="香港",黄金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" group-title="香港",美亚电影台
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="myTVSuper18" tvg-name="myTV Super 18" group-title="香港",myTV Super 18
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" group-title="香港",Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVB星河台" tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港",星河台
+http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="翡翠综合台" tvg-name="翡翠综合台" group-title="香港",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-id="明珠剧集台" tvg-name="明珠剧集台" group-title="香港",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY 78" group-title="香港",HOY 78
+http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰卫视中文台
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰卫视资讯台
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰卫视香港台
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="香港" tvg-id="aktv/28ai",28 AI 智慧赛马
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾",TVBS新闻台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="aktv/null-12",中天亚洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾",中天新闻台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾",中视
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾",华视
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾",寰宇新闻
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾",靖天电影
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="aktv/null-15",千禧经典台
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="台湾",龙华日韩
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="台湾",龙华经典
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="台湾",龙华电影
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
+#EXTINF:-1 group-title="日韩" tvg-id="aktv/null-13",日本全天新闻
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="日韩新",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="aktv/channel5hd",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="aktv/channel8hd",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="aktv/channeluhd",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="aktv/channeluhd",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="新加坡" tvg-id="aktv/rockaction",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
@@ -158,6 +222,7 @@ http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&si
 http://[2409:8087:74d9:21::6]/270000001128/9900000040/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://[2409:8087:74d9:21::6]/270000001128/9900000039/index.m3u8
+
 
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="iHOT",iHOT 爱喜剧
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -190,153 +255,153 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="iHOT",iHOT 爱体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
 http://cfss.cc/cdn/hy/11342412.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",林正英电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",林正英电影
 http://cfss.cc/cdn/hy/11342421.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",刘德华电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",刘德华电影
 http://jiaojirentv.top/2020/dy.php?id=2516864
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",古天乐电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",古天乐电影
 http://cfss.cc/cdn/hy/29982675.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",成龙电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",成龙电影
 http://jiaojirentv.top/2020/dy.php?id=3379942
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",李连杰电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",李连杰电影
 http://cfss.cc/cdn/hy/11342390.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",甄子丹电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",甄子丹电影
 http://cfss.cc/cdn/hy/11352935.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",狄仁杰系列
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",狄仁杰系列
 http://cfss.cc/cdn/hy/30080229.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",沈腾电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",沈腾电影
 http://cfss.cc/cdn/hy/11601968.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",黄渤电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",黄渤电影
 http://cfss.cc/cdn/hy/11352876.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",强森电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",强森电影
 http://cfss.cc/cdn/hy/21059581.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",王晶电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",王晶电影
 http://cfss.cc/cdn/hy/11602058.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",金庸武侠
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",金庸武侠
 http://cfss.cc/cdn/hy/11342435.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",功夫电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",功夫电影
 http://cfss.cc/cdn/hy/11352941.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",贺岁电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",贺岁电影
 http://cfss.cc/cdn/hy/11601986.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",X战警电影
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",X战警电影
 http://jiaojirentv.top/2020/dy.php?id=9651304
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",欧美大片
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",欧美大片
 http://jiaojirentv.top/2020/dy.php?id=2793084
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",贝爷影厅
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",贝爷影厅
 http://jiaojirentv.top/2020/dy.php?id=36337
 
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧轮播",延禧攻略
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧轮播",延禧攻略
 http://cfss.cc/cdn/hy/26355864.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧轮播",新三国
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/新三国.png" group-title="电视剧轮播",新三国
 http://cfss.cc/cdn/hy/11352944.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视剧轮播",新水浒传
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/新水浒.png" group-title="电视剧轮播",新水浒传
 http://cfss.cc/cdn/hy/11342384.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="电视剧轮播",少年包青天第一部
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天.png" group-title="电视剧轮播",少年包青天第一部
 http://cfss.cc/cdn/yy/1356043677.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧轮播",神探狄仁杰第三部
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰3.png" group-title="电视剧轮播",神探狄仁杰第三部
 http://cfss.cc/cdn/hy/11342425.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧轮播",爱情公寓
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/爱情公寓.png" group-title="电视剧轮播",爱情公寓
 http://cfss.cc/cdn/hy/11336726.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧轮播",倚天屠龙记
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧轮播",倚天屠龙记
 http://cfss.cc/cdn/hy/11342403.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧轮播",铁齿铜牙纪晓岚
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧轮播",铁齿铜牙纪晓岚
 http://cfss.cc/cdn/hy/11342396.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png" group-title="电视剧轮播",亮剑
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/亮剑.png" group-title="电视剧轮播",亮剑
 http://cfss.cc/cdn/hy/30080238.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电视剧轮播",士兵突击
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/士兵突击.png" group-title="电视剧轮播",士兵突击
 http://cfss.cc/cdn/hy/11342430.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/康熙王朝.png" group-title="电视剧轮播",康熙王朝
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/康熙王朝.png" group-title="电视剧轮播",康熙王朝
 http://cfss.cc/cdn/hy/11352940.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电视剧轮播",鬼吹灯之精绝古城
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/精绝古城.png" group-title="电视剧轮播",鬼吹灯之精绝古城
 http://cfss.cc/cdn/hy/11352871.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视剧轮播",鬼吹灯之怒晴湘西
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/怒晴湘西.png" group-title="电视剧轮播",鬼吹灯之怒晴湘西
 http://cfss.cc/cdn/hy/11602075.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视剧轮播",鬼吹灯之龙岭迷窟
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视剧轮播",鬼吹灯之龙岭迷窟
 http://cfss.cc/cdn/hy/29465863.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="电视剧轮播",鬼吹灯之云南虫谷
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/云南虫谷.png" group-title="电视剧轮播",鬼吹灯之云南虫谷
 http://cfss.cc/cdn/hy/11352898.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧轮播",神探狄仁杰轮播
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神探狄仁杰.png" group-title="电视剧轮播",神探狄仁杰轮播
 http://jiaojirentv.top/2020/dy.php?id=3395113
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天轮播
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/少年包青天1.png" group-title="电视剧轮播",少年包青天轮播
 https://lunbo.freetv.top/yy/38498680
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视剧轮播",笑傲江湖
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/笑傲江湖.png" group-title="电视剧轮播",笑傲江湖
 http://cfss.cc/cdn/hy/26355790.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧轮播",伪装者
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧轮播",伪装者
 http://cfss.cc/cdn/yy/1354936244.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="电视剧轮播",西游记后传
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="电视剧轮播",西游记后传
 http://cfss.cc/cdn/yy/1353392400.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="电视剧轮播",隋唐英雄传
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="电视剧轮播",隋唐英雄传
 http://cfss.cc/cdn/yy/1352475619.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/仙剑奇侠传.png" group-title="电视剧轮播",仙剑奇侠传
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/仙剑奇侠传.png" group-title="电视剧轮播",仙剑奇侠传
 http://cfss.cc/cdn/yy/1382749903.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="电视剧轮播",西游记续集
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记续集.png" group-title="电视剧轮播",西游记续集
 http://jiaojirentv.top/2020/dy.php?id=3113309
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧轮播",神雕侠侣
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/神雕侠侣.png" group-title="电视剧轮播",神雕侠侣
 http://cfss.cc/cdn/hy/11352964.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧轮播",我是特种兵之利刃出鞘
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/利刃出鞘.png" group-title="电视剧轮播",我是特种兵之利刃出鞘
 http://cfss.cc/cdn/yy/18600.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧轮播",狂飙
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/狂飙.png" group-title="电视剧轮播",狂飙
 http://cfss.cc/cdn/yy/17981.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧轮播",雪豹
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧轮播",雪豹
 http://cfss.cc/cdn/hy/29580970.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视剧轮播",陈情令
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/陈情令.png" group-title="电视剧轮播",陈情令
 http://cfss.cc/cdn/hy/29465862.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",楚汉骄雄
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",楚汉骄雄
 http://cfss.cc/cdn/hy/23740156.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",封神榜
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",封神榜
 http://cfss.cc/cdn/hy/23749096.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",西游记1
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",西游记1
 http://cfss.cc/cdn/hy/23728660.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",西游记2
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",西游记2
 http://cfss.cc/cdn/hy/23735126.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",天龙八部
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",天龙八部
 http://cfss.cc/cdn/hy/23903123.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",鹿鼎记
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",鹿鼎记
 http://cfss.cc/cdn/hy/23865080.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",寻秦记
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",寻秦记
 http://cfss.cc/cdn/hy/23864973.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",大唐双龙传
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",大唐双龙传
 http://cfss.cc/cdn/hy/23728674.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",神雕侠侣
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",神雕侠侣
 http://cfss.cc/cdn/hy/23865171.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",射雕英雄传
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",射雕英雄传
 http://cfss.cc/cdn/hy/23824164.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",倚天屠龙记
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",倚天屠龙记
 http://cfss.cc/cdn/hy/23734246.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",笑傲江湖
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",笑傲江湖
 http://cfss.cc/cdn/hy/23865142.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",刑事侦缉档案
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",刑事侦缉档案
 http://cfss.cc/cdn/hy/23734169.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",法政先锋
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",法政先锋
 http://cfss.cc/cdn/hy/23863804.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",洗冤录
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",洗冤录
 http://cfss.cc/cdn/hy/23903130.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",陀枪师姐
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",陀枪师姐
 http://cfss.cc/cdn/hy/23860039.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",使徒行者
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",使徒行者
 http://cfss.cc/cdn/hy/23734256.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",鉴证实录
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",鉴证实录
 http://cfss.cc/cdn/hy/23903183.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",金枝欲孽
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",金枝欲孽
 http://cfss.cc/cdn/hy/23865036.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",扫黄先锋
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",扫黄先锋
 http://cfss.cc/cdn/hy/23903196.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",创世纪
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",创世纪
 http://cfss.cc/cdn/hy/23749083.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",妙手仁心
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",妙手仁心
 http://cfss.cc/cdn/hy/23829543.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",大时代
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",大时代
 http://cfss.cc/cdn/hy/23865161.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",野蛮亲家
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",野蛮亲家
 http://cfss.cc/cdn/hy/23863796.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",笑看风云
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png" group-title="电视剧轮播",笑看风云
 http://cfss.cc/cdn/hy/23865058.flv
 
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="动画动漫",七龙珠
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="动画动漫",七龙珠
 http://cfss.cc/cdn/hy/11601966.flv
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画动漫",灌篮高手
+#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="动画动漫",灌篮高手
 http://cfss.cc/cdn/yy/1382735626.flv
 #EXTINF:-1 group-title="动画动漫",国漫热播
 http://cfss.cc/cdn/yy/1353937086.flv
@@ -366,254 +431,83 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="CGTN",CGTN العربية
 https://0472.org/hls/cgtna.m3u8
 
-#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1983年春晚
+#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1983年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1984年春晚
+#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1984年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1985年春晚
+#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1985年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1986年春晚
+#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1986年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1987年春晚
+#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1988年春晚
+#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1988年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1989年春晚
+#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1989年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1992年春晚
+#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1992年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1993年春晚
+#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1993年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1994年春晚
+#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1994年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1995年春晚
+#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1995年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1996年春晚
+#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1996年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1997年春晚
+#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1997年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1998年春晚
+#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1998年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1999年春晚
+#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1999年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2000年春晚
+#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2000年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2001年春晚
+#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2001年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2002年春晚
+#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2002年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2003年春晚
+#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2003年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2004年春晚
+#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2004年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2005年春晚
+#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2005年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2006年春晚
+#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2006年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2007年春晚
+#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2007年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2008年春晚
+#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2008年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2009年春晚
+#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2009年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2010年春晚
+#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2010年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2011年春晚
+#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2011年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2012年春晚
+#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2012年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2013年春晚
+#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2013年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2014年春晚
+#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2014年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2015年春晚
+#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2015年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2016年春晚
+#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2016年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2017年春晚
+#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2017年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2018年春晚
+#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2018年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2019年春晚
+#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2019年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2020年春晚
+#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2020年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2021年春晚
+#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2021年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2022年春晚
+#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2022年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2023年春晚" tvg-name="2023年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2023年春晚
+#EXTINF:-1 tvg-id="2023年春晚" tvg-name="2023年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2023年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2024年春晚
+#EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视IPv4",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视IPv4",CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视IPv4",CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视IPv4",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视IPv4",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视IPv4",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视IPv4",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视IPv4",CCTV-7 国防军事
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视IPv4",CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视IPv4",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视IPv4",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视IPv4",CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视IPv4",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视IPv4",CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视IPv4",CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视IPv4",CCTV-15 音乐
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视IPv4",CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视IPv4",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江IPv4",黑龙江卫视
-https://epg.pw/stream/63d01b23db86de0606f56477edfe722f072f4c4bf88de76c903385e0512cd0f9.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="黑龙江影视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江IPv4",黑龙江影视
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226022/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="黑龙江文体" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江IPv4",黑龙江文体
-https://epg.pw/stream/567515758c591fd69e52d0b0969c2323f0bb46cbbf8bbe9947382bec93f861bf.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="黑龙江都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江IPv4",黑龙江都市
-https://epg.pw/stream/0bd3fd1279f6bfd8b5632dcbcdadbc0e001414e70fbc86d9ef728ac5aaa6dd5c.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="黑龙江新闻法制" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江IPv4",黑龙江新闻法制
-https://epg.pw/stream/792f3c225559e492d1da4886dbfcd0ab07308b9858afd91a36e9df8e15c85458.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="黑龙江公共农业" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江IPv4",黑龙江公共农业
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226042/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="黑龙江少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江IPv4",黑龙江少儿
-https://epg.pw/stream/4b80123052867cc37bbe58bc7f9faea53a88d35567dbaef17e933bab84096e88.m3u8
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视测试",CCTV-1 综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视测试",CCTV-2 财经
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视测试",CCTV-3 综艺
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视测试",CCTV-4 中文国际
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视测试",CCTV-5 体育
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视测试",CCTV-5+ 体育赛事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视测试",CCTV-6 电影
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视测试",CCTV-7 国防军事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视测试",CCTV-8 电视剧
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视测试",CCTV-9 纪录
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视测试",CCTV-10 科教
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视测试",CCTV-11 戏曲
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视测试",CCTV-12 社会与法
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视测试",CCTV-13 新闻
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视测试",CCTV-14 少儿
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视测试",CCTV-15 音乐
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视测试",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视测试",CCTV-17 农业农村
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.iill.top/logo/黑龙江卫视.png" group-title="黑龙江测试",黑龙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8
-
-#EXTINF:1 group-title="AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:2 group-title="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:3 group-title="AKTV" tvg-id="aktv/channel8hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:4 group-title="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel U HD
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:5 group-title="AKTV" tvg-id="aktv/hoy78" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Hoy 78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-#EXTINF:6 group-title="AKTV" tvg-id="aktv/mytvsuper18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:7 group-title="AKTV" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:8 group-title="AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:9 group-title="AKTV" tvg-id="aktv/tvbplus" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:10 group-title="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:11 group-title="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:12 group-title="AKTV" tvg-id="aktv/tvn" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:13 group-title="AKTV" tvg-id="aktv/null-12" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:14 group-title="AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:15 group-title="AKTV" tvg-id="aktv/null-10" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:16 group-title="AKTV" tvg-id="aktv/null-15" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:17 group-title="AKTV" tvg-id="aktv/hk" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:18 group-title="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:19 group-title="AKTV" tvg-id="aktv/null-13" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:20 group-title="AKTV" tvg-id="aktv/null-19" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:21 group-title="AKTV" tvg-id="aktv/null-2" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:22 group-title="AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:23 group-title="AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:24 group-title="AKTV" tvg-id="aktv/null-18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:25 group-title="AKTV" tvg-id="aktv/null" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:26 group-title="AKTV" tvg-id="aktv/null-17" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:27 group-title="AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:28 group-title="AKTV" tvg-id="aktv/null-6" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:29 group-title="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:30 group-title="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:31 group-title="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:32 group-title="AKTV" tvg-id="aktv/null-21" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:33 group-title="AKTV" tvg-id="aktv/null-22" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:34 group-title="AKTV" tvg-id="aktv/null-7" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:35 group-title="AKTV" tvg-id="aktv/null-23" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:36 group-title="AKTV2" tvg-id="aktv2/now" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now星影台	
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:37 group-title="AKTV2" tvg-id="aktv2/tvb" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", TVB 星河台	
-http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-#EXTINF:38 group-title="AKTV2" tvg-id="aktv2/null-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 无线新闻台(北美)	
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:39 group-title="AKTV2" tvg-id="aktv2/null" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 爆谷台	
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
