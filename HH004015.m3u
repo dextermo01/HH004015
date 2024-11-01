@@ -9,9 +9,9 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8
+http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000506
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000507
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
@@ -40,17 +40,17 @@ http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.iill.top/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000521
 #EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://epg.iill.top/logo/黑龙江新闻.png" group-title="黑龙江",黑龙江新闻法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://epg.iill.top/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://epg.iill.top/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://epg.iill.top/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江农业科教" tvg-logo="https://epg.iill.top/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://epg.iill.top/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
-http://39.134.65.173/PLTV/88888888/224/3221225979/1.m3u8
+http://39.134.65.173/TVOD/88888888/224/3221225979/1.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
