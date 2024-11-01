@@ -137,7 +137,7 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000039/index.m3u8
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 group-title="香港" tvg-id="aktv/28ai",28 AI 智慧赛马
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY 78" group-title="香港",78 HOY78
+#EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" group-title="香港",78 HOY资讯台
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" group-title="香港",80 黄金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
@@ -194,7 +194,7 @@ http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾",靖天电影
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾",靖天电影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="台湾",龙华日韩
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
