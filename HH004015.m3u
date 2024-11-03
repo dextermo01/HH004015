@@ -39,16 +39,21 @@ http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2178989547_-748691326/ottrrs.hl.
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.iill.top/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
 http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002142/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://epg.iill.top/logo/黑龙江新闻.png" group-title="黑龙江",黑龙江新闻法治
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://epg.iill.top/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://epg.iill.top/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://epg.iill.top/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江农业科教" tvg-logo="https://epg.iill.top/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="黑龙江影视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江影视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="黑龙江文体" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江文体
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="黑龙江都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江都市
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226301/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="黑龙江新闻法制" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江新闻法制
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226330/index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="黑龙江文体" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江文体-备用
+https://epg.pw/stream/567515758c591fd69e52d0b0969c2323f0bb46cbbf8bbe9947382bec93f861bf.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="黑龙江都市" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江都市-备用
+https://epg.pw/stream/0bd3fd1279f6bfd8b5632dcbcdadbc0e001414e70fbc86d9ef728ac5aaa6dd5c.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="黑龙江新闻法制" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江新闻法制-备用
+https://epg.pw/stream/792f3c225559e492d1da4886dbfcd0ab07308b9858afd91a36e9df8e15c85458.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="黑龙江公共农业" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
