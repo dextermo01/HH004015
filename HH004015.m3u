@@ -50,6 +50,10 @@ http://iptv5.ikuai.tv:9000/udp/236.78.78.78:59786
 http://39.134.65.173/PLTV/88888888/224/3221225967/1.m3u8
 #EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="黑龙江",BBC News
 https://aktv.top/myaktv/LIVE/cc440795860d7133b4b51ba6ff42afb2.m3u8
+#EXTINF:-1,CBC News Network
+https://aktv.top/myaktv/LIVE/abd02bc7a0d98f0bf732f4519e047930.m3u8
+#EXTINF:-1,ABC 7 SF
+https://aktv.top/myaktv/LIVE/908f5600f521932a2e816001fbbe97f2.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
