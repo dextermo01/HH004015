@@ -54,7 +54,7 @@ https://aktv.top/myaktv/LIVE/cc440795860d7133b4b51ba6ff42afb2.m3u8
 #EXTINF:-1 group-title="United States",CBC News Network
 https://aktv.top/myaktv/LIVE/abd02bc7a0d98f0bf732f4519e047930.m3u8
 #EXTINF:-1 group-title="United States",NBC News Now
-https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+https://aktv.top/myaktv/LIVE/6258146ba0149fac7e97980b64f4e12b.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
