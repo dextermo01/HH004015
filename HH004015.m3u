@@ -48,13 +48,12 @@ http://39.134.65.173/PLTV/88888888/224/3221226301/1.m3u8
 http://iptv5.ikuai.tv:9000/udp/236.78.78.78:59786
 #EXTINF:-1 tvg-id="黑龙江新闻" tvg-name="黑龙江新闻法制" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江新闻法制
 http://39.134.65.173/PLTV/88888888/224/3221225967/1.m3u8
-#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="黑龙江",BBC News
+
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="United States",BBC News
 https://aktv.top/myaktv/LIVE/cc440795860d7133b4b51ba6ff42afb2.m3u8
-#EXTINF:-1,CBC News Network
+#EXTINF:-1 group-title="United States",CBC News Network
 https://aktv.top/myaktv/LIVE/abd02bc7a0d98f0bf732f4519e047930.m3u8
-#EXTINF:-1,ABC 7 SF
-https://aktv.top/myaktv/LIVE/908f5600f521932a2e816001fbbe97f2.m3u8
-#EXTINF:-1,NBC News Now
+#EXTINF:-1 group-title="United States",NBC News Now
 https://aktv.top/myaktv/LIVE/d145778343ce98d4ce952043091aaeb0.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
