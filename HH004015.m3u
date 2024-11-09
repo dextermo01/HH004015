@@ -49,17 +49,6 @@ http://iptv5.ikuai.tv:9000/udp/236.78.78.78:59786
 #EXTINF:-1 tvg-id="黑龙江新闻" tvg-name="黑龙江新闻法制" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="黑龙江",黑龙江新闻法制
 http://39.134.65.173/PLTV/88888888/224/3221225967/1.m3u8
 
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="美国",BBC News
-https://aktv.top/myaktv/LIVE/cc440795860d7133b4b51ba6ff42afb2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="美国",CBC News Network
-https://aktv.top/myaktv/LIVE/abd02bc7a0d98f0bf732f4519e047930.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="美国",NBC News Now
-https://aktv.top/myaktv/LIVE/6258146ba0149fac7e97980b64f4e12b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="美国",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="美国",MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -239,6 +228,17 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/cna.png" group-title="日新",CNA
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="美国",BBC News
+https://aktv.top/myaktv/LIVE/cc440795860d7133b4b51ba6ff42afb2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="美国",CBC News Network
+https://aktv.top/myaktv/LIVE/abd02bc7a0d98f0bf732f4519e047930.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="美国",NBC News Now
+https://aktv.top/myaktv/LIVE/6258146ba0149fac7e97980b64f4e12b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="美国",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="美国",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="iHOT",iHOT 爱喜剧
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
