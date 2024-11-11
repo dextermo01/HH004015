@@ -128,105 +128,105 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000040/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000039/index.m3u8
 
 #EXTINF:-1 tvg-name="myTV Super 18" group-title="香港",18 myTV Super 18
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 group-title="香港",28 AI 智慧赛马
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-id="451" tvg-name="HOY78" group-title="香港",78 HOY资讯台
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" group-title="香港",80 黄金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",81 翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港",82 TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",83 无线新闻台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="香港",84 明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="555" tvg-name="千禧经典台" group-title="香港",86 千禧经典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id="556" tvg-name="亚洲剧台" group-title="香港",87 亚洲剧台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" group-title="香港",91 娱乐新闻台
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTV6" tvg-logo="https://live.fanmingming.com/tv/viutv6.png" group-title="香港",96 ViuTV6
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="香港",99 ViuTV
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="香港",104 Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/NickJr.png" group-title="香港",105 Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" group-title="香港",138 Now星影台
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" group-title="香港",201 美亚电影台
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" group-title="香港",202 Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 group-title="香港" tvg-id="aktv/rockaction",205 ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 group-title="香港" tvg-id="559",206 PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" group-title="香港",304 KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="香港",402 Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="香港",504 Animax
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="香港",505 tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",610 凤凰卫视中文台
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",611 凤凰卫视资讯台
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",612 凤凰卫视香港台
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-name="France 24" tvg-logo="https://live.fanmingming.com/tv/france24.png" group-title="香港",705 France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://live.fanmingming.com/tv/DW.png" group-title="香港",706 DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-id="558" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港",TVB 星河台
-http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" group-title="香港",无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠综合台" tvg-name="翡翠综合台" group-title="香港",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠剧集台" tvg-name="明珠剧集台" group-title="香港",明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="台湾",TVBS新闻台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 group-title="台湾" tvg-id="aktv/null-12",中天亚洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾",中天新闻台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾",中视
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-id="442" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾",华视
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="台湾",寰宇新闻台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="台湾",靖天电影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="台湾",龙华日韩
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="台湾",龙华电影
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
 #EXTINF:-1 group-title="日新" tvg-id="aktv/null-13",日本全天新闻
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHK World Japan" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="日新",NHK World Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 group-title="日新" tvg-id="aktv/channel5hd",Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 group-title="日新" tvg-id="aktv/channel8hd",Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 group-title="日新" tvg-id="aktv/channeluhd",Channel U HD
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/cna.png" group-title="日新",CNA
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+https://route2.aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="英美加",BBC News
 https://aktv.top/myaktv/LIVE/cc440795860d7133b4b51ba6ff42afb2.m3u8
