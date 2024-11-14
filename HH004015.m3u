@@ -91,7 +91,7 @@ http://[2409:8087:74f0:22::7]:6410/270000001128/9900000526/index.m3u8?channel-id
 #EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://[2409:8087:74f0:22::7]:6410/270000001128/9900000517/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000517
 #EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+http://[2409:8087:74d9:21::6]/270000001128/9900000044/index.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://[2409:8087:74d9:21::6]/270000001128/9900000047/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
@@ -124,8 +124,6 @@ http://[2409:8087:74f0:22::4]:6410/270000001128/9900000058/index.m3u8?channel-id
 http://[2409:8087:74d9:21::6]/270000001128/9900000040/index.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://[2409:8087:74d9:21::6]/270000001128/9900000039/index.m3u8
-#EXTINF:-1 group-title="卫视",重温经典
-http://148.135.93.213:81/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 
 #EXTINF:-1 tvg-name="myTV Super 18" group-title="香港",18 myTV Super 18
 https://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
@@ -157,8 +155,6 @@ https://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 https://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/NickJr.png" group-title="香港",105 Nick Jr
 https://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" group-title="香港",138 Now星影台
-https://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" group-title="香港",201 美亚电影台
 https://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" group-title="香港",202 Thrill
