@@ -194,7 +194,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?
 https://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港",81 翡翠台
 https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="香港",82 TVB Plus
+#EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港",82 TVB Plus
 https://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港",83 无线新闻台
 https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
