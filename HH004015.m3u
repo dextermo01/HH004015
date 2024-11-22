@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://e.erw.cc/all.xml,https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml,https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
