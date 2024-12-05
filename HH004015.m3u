@@ -218,8 +218,14 @@ http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 https://live.hkdvb.com/hls/live/82.m3u8?token=263664245637042
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港",83 无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港",83 无线新闻台(字幕)
+https://live.hkdvb.com/hls/live/83.m3u8?token=263664245637042
 #EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港",84 明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港",84 明珠台(字幕)
+https://live.hkdvb.com/hls/live/84.m3u8?token=263664245637042
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="香港",85 凤凰卫视香港台
+https://live.hkdvb.com/hls/live/85.m3u8?token=263664245637042
 #EXTINF:-1 tvg-id="555" tvg-name="千禧经典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="香港",86 千禧经典台
 https://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id="556" tvg-name="亚洲剧台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="香港",87 亚洲剧台
@@ -232,8 +238,12 @@ https://live.hkdvb.com/hls/live/90.m3u8?token=263664245637042
 https://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="香港",96 ViuTV6
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8	
+#EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="香港",96 ViuTV6(字幕)
+https://live.hkdvb.com/hls/live/96.m3u8?token=263664245637042
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="香港",99 ViuTV
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8	
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="香港",99 ViuTV(字幕)
+https://live.hkdvb.com/hls/live/99.m3u8?token=263664245637042
 #EXTINF:-1 tvg-id="Nickelodeon-East" tvg-name="Nickelodeon East" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="香港",104 Nickelodeon
 https://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="香港",105 Nick Jr
