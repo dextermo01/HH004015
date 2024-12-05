@@ -345,6 +345,8 @@ https://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/CNA.png" tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="日新",CNA
 https://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="海外",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="海外",CNBC
 https://4gtv.mytvsuper.xyz/beesport/CNBC_Live_TV
 #EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX News" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="海外",FOX News
