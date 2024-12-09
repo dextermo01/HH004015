@@ -222,6 +222,8 @@ https://live.hkdvb.com/hls/live/96.m3u8?token=263664245637042
 https://live.hkdvb.com/hls/live/99.m3u8?token=263664245637042
 
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港",翡翠台4K
+http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+#EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港",翡翠台4K(备用)
 https://live.hkdvb.com/hls/live/800.m3u8?token=263664245637042
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
