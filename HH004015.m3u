@@ -190,15 +190,15 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-id="255" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="数字",中国天气
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
 
-#EXTINF:-1 tvg-id="444" tvg-name="RTHK31" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK31.png" group-title="香港免费电视",31 港台电视31
+#EXTINF:-1 tvg-id="444" tvg-name="RTHK31" tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK31.png" group-title="香港免费电视",31 港台电视31
 https://live.hkdvb.com/hls/live/31.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="445" tvg-name="RTHK32" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK32.png" group-title="香港免费电视",32 港台电视32
+#EXTINF:-1 tvg-id="445" tvg-name="RTHK32" tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK32.png" group-title="香港免费电视",32 港台电视32
 https://live.hkdvb.com/hls/live/32.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="446" tvg-name="RTHK33" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK33.png" group-title="香港免费电视",33 港台电视33
+#EXTINF:-1 tvg-id="446" tvg-name="RTHK33" tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK33.png" group-title="香港免费电视",33 港台电视33
 https://live.hkdvb.com/hls/live/33.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="447" tvg-name="RTHK34" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="香港免费电视",34 港台电视34
+#EXTINF:-1 tvg-id="447" tvg-name="RTHK34" tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="香港免费电视",34 港台电视34
 https://live.hkdvb.com/hls/live/34.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="448" tvg-name="RTHK35" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="香港免费电视",35 港台电视35
+#EXTINF:-1 tvg-id="448" tvg-name="RTHK35" tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="香港免费电视",35 港台电视35
 https://live.hkdvb.com/hls/live/35.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="449" tvg-name="HOY76" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="香港免费电视",76 HOY国际财经台
 https://live.hkdvb.com/hls/live/76.m3u8?token=263664245636508
@@ -343,173 +343,28 @@ https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn17
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="台湾",Smart知识台
 https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn19
 
-#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/日テレNEWS24.png" group-title="日韩新",日テレNEWS24
+#EXTINF:-1 tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/日テレNEWS24.png" group-title="日韩新",日テレNEWS24
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="日韩新",NHK World Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="日韩新",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-5.png" group-title="日韩新",Channel 5
+#EXTINF:-1 tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-5.png" group-title="日韩新",Channel 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-8.png" group-title="日韩新",Channel 8
+#EXTINF:-1 tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-8.png" group-title="日韩新",Channel 8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-U.png" group-title="日韩新",Channel U
+#EXTINF:-1 tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-U.png" group-title="日韩新",Channel U
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/CNA.png" tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="日韩新",CNA
+#EXTINF:-1 tvg-logo="https://hub.gitmirror.com/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/CNA.png" tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="日韩新",CNA
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="海外",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="海外",CNBC
-https://pixman.mytvsuper.com.mp/beesport/CNBC_Live_TV
-#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX News" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="海外",FOX News
-https://pixman.mytvsuper.com.mp/beesport/FOX_NEWS_Live_TV
-#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="海外",Fox Sports 1
-https://pixman.mytvsuper.com.mp/beesport/Fox_Sports_1_Live_TV
-#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="海外",Fox Sports 2
-https://pixman.mytvsuper.com.mp/beesport/Fox_Sports_2_Live_TV
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 1" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="海外",HBO 1
-https://pixman.mytvsuper.com.mp/beesport/HBO_Live_TV
-#EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2" tvg-logo="https://assets.livednow.com/logo/HBO-2.png" group-title="海外",HBO 2
-https://pixman.mytvsuper.com.mp/beesport/HBO_2_Live_TV
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="海外",ESPN
-https://pixman.mytvsuper.com.mp/beesport/ESPN_Live_TV
-#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="海外",ESPN 2
-https://pixman.mytvsuper.com.mp/beesport/ESPN_2_Live_TV
-#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPN News" tvg-logo="https://assets.livednow.com/logo/ESPN-News.png" group-title="海外",ESPN News
-https://pixman.mytvsuper.com.mp/beesport/ESPN_News_Live_TV
-#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPN U" tvg-logo="https://assets.livednow.com/logo/ESPN-U.png" group-title="海外",ESPN U
-https://pixman.mytvsuper.com.mp/beesport/ESPN_U_Live_TV
-#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="海外",MLB Network
-https://pixman.mytvsuper.com.mp/beesport/MLB_Network_Live_TV
-#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="海外",NBA TV
-https://pixman.mytvsuper.com.mp/beesport/NBA_TV_Live_TV
-#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="海外",NFL Network
-https://pixman.mytvsuper.com.mp/beesport/NFL_Network_Live_TV
-#EXTINF:-1 tvg-id="NFL-REDZONE" tvg-name="NFL Redzone" tvg-logo="https://assets.livednow.com/logo/NFL-REDZONE.png" group-title="海外",NFL Redzone
-https://pixman.mytvsuper.com.mp/beesport/NFL_REDZONE_Live_TV
-#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="海外",NHL Network
-https://pixman.mytvsuper.com.mp/beesport/NHL_Network_Live_TV
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://assets.livednow.com/logo/WWE.png" group-title="海外",WWE
-https://pixman.mytvsuper.com.mp/beesport/WWE_Live_TV
-#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png" group-title="海外",Discovery Channel
-https://pixman.mytvsuper.com.mp/beesport/Discovery_Channel_Live_TV
-#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="海外",Discovery Life
-https://pixman.mytvsuper.com.mp/beesport/Discovery_Life_Live_TV
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="海外",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="海外",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="UK-Sky-Cinema-Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://assets.livednow.com/logo/UK-Sky-Cinema-Comedy.png" group-title="海外",Sky Cinema Comedy
-https://pixman.mytvsuper.com.mp/beesport/UK_Sky_Cinema_Comedy_Live_TV
-#EXTINF:-1 tvg-id="UK-Sky-Cinema-Family" tvg-name="Sky Cinema Family" tvg-logo="https://assets.livednow.com/logo/UK-Sky-Cinema-Family.png" group-title="海外",Sky Cinema Family
-https://pixman.mytvsuper.com.mp/beesport/UK_Sky_Cinema_Family_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="海外",Sky Sports Football
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Football_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Main-Event" tvg-name="Sky Sports Main Event" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png" group-title="海外",Sky Sports Main Event
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Main_Event
-#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports Premier League" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="海外",Sky Sports Premier League
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Premier_League
-#EXTINF:-1 tvg-id="Sky-Sports-Action" tvg-name="Sky Sports Action" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Action.png" group-title="海外",Sky Sports Action
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Action_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Mix" tvg-name="Sky Sports Mix" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Mix.png" group-title="海外",Sky Sports Mix
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Mix_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Arena" tvg-name="Sky Sports Arena" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Arena.png" group-title="海外",Sky Sports Arena
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Arena_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-News" tvg-name="Sky Sports News" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-News.png" group-title="海外",Sky Sports News
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_News_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Cricket.png" group-title="海外",Sky Sports Cricket
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Cricket_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png" group-title="海外",Sky Sports Tennis
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Tennis
-#EXTINF:-1 tvg-id="Sky-Sports-F1" tvg-name="Sky Sports F1" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-F1.png" group-title="海外",Sky Sports F1
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_F1_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Golf" tvg-name="Sky Sports Golf" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Golf.png" group-title="海外",Sky Sports Golf
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Golf_Live_TV
-#EXTINF:-1 tvg-id="Sky-Sports-Racing" tvg-name="Sky Sports Racing" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Racing.png" group-title="海外",Sky Sports Racing
-https://pixman.mytvsuper.com.mp/beesport/Sky_Sports_Racing_Live_TV
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="海外",DAZN
-https://pixman.mytvsuper.com.mp/beesport/DAZN_Live_TV
-#EXTINF:-1 tvg-id="Bein-Sports-USA" tvg-name="Bein Sports USA" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="海外",Bein Sports USA
-https://pixman.mytvsuper.com.mp/beesport/Bein_Sports_USA_Live_TV
-#EXTINF:-1 tvg-id="Bein-Sports-English-2" tvg-name="Bein Sports English 2" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-English-2.png" group-title="海外",Bein Sports English 2
-https://pixman.mytvsuper.com.mp/beesport/Bein_Sports_English_2_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="海外",SuperSport Premier League
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Premier_League_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="海外",SuperSport LaLiga
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_LaLiga_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Action" tvg-name="SuperSport Action" tvg-logo="https://assets.livednow.com/logo/SuperSport-Action.png" group-title="海外",SuperSport Action
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Action_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Blitz" tvg-name="SuperSport Blitz" tvg-logo="https://assets.livednow.com/logo/SuperSport-Blitz.png" group-title="海外",SuperSport Blitz
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Blitz_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Cricket" tvg-name="SuperSport Cricket" tvg-logo="https://assets.livednow.com/logo/SuperSport-Cricket.png" group-title="海外",SuperSport Cricket
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Cricket_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="海外",SuperSport Football
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Football_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Golf" tvg-name="SuperSport Golf" tvg-logo="https://assets.livednow.com/logo/SuperSport-Golf.png" group-title="海外",SuperSport Golf
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Golf_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Rugby" tvg-name="SuperSport Rugby" tvg-logo="https://assets.livednow.com/logo/SuperSport-Rugby.png" group-title="海外",SuperSport Rugby
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Rugby_Live_TV
-#EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://assets.livednow.com/logo/SuperSport-Tennis.png" group-title="海外",SuperSport Tennis
-https://pixman.mytvsuper.com.mp/beesport/SuperSport_Tennis_Live_TV
-#EXTINF:-1 tvg-id="Variety-1" tvg-name="Variety 1" tvg-logo="https://assets.livednow.com/logo/Variety-1.png" group-title="海外",Variety 1
-https://pixman.mytvsuper.com.mp/beesport/Variety_1_Live_TV
-#EXTINF:-1 tvg-id="Variety-2" tvg-name="Variety 2" tvg-logo="https://assets.livednow.com/logo/Variety-2.png" group-title="海外",Variety 2
-https://pixman.mytvsuper.com.mp/beesport/Variety_2_Live_TV
-#EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="海外",Variety 3
-https://pixman.mytvsuper.com.mp/beesport/Variety_3_Live_TV
-#EXTINF:-1 tvg-id="Variety-4" tvg-name="Variety 4" tvg-logo="https://assets.livednow.com/logo/Variety-4.png" group-title="海外",Variety 4
-https://pixman.mytvsuper.com.mp/beesport/Variety_4_Live_TV
-#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="海外",Eurosport 1
-https://pixman.mytvsuper.com.mp/beesport/Eurosport_1_Live_TV
-#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="海外",Eurosport 2
-https://pixman.mytvsuper.com.mp/beesport/Eurosport_2_Live_TV
-#EXTINF:-1 tvg-id="Premier-Sports-1" tvg-name="Premier Sports 1" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-1.png" group-title="海外",Premier Sports 1
-https://pixman.mytvsuper.com.mp/beesport/Premier_Sports_1
-#EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-2.png" group-title="海外",Premier Sports 2
-https://pixman.mytvsuper.com.mp/beesport/Premier_Sports_2
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT Sport 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="海外",TNT Sport 1
-https://pixman.mytvsuper.com.mp/beesport/TNT_Sports_1
-#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT Sport 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="海外",TNT Sport 2
-https://pixman.mytvsuper.com.mp/beesport/TNT_Sports_2
-#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT Sport 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="海外",TNT Sport 3
-https://pixman.mytvsuper.com.mp/beesport/TNT_Sports_3
-#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT Sport 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="海外",TNT Sport 4
-https://pixman.mytvsuper.com.mp/beesport/TNT_Sports_4
-#EXTINF:-1 tvg-id="UK-Virgin-1" tvg-name="Virgin 1" tvg-logo="https://assets.livednow.com/logo/UK-Virgin-1.png" group-title="海外",Virgin 1
-https://pixman.mytvsuper.com.mp/beesport/UK_Virgin_1
-#EXTINF:-1 tvg-id="UK-Virgin-2" tvg-name="Virgin 2" tvg-logo="https://assets.livednow.com/logo/UK-Virgin-2.png" group-title="海外",Virgin 2
-https://pixman.mytvsuper.com.mp/beesport/UK_Virgin_2
-#EXTINF:-1 tvg-id="UK-Virgin-3" tvg-name="Virgin 3" tvg-logo="https://assets.livednow.com/logo/UK-Virgin-3.png" group-title="海外",Virgin 3
-https://pixman.mytvsuper.com.mp/beesport/UK_Virgin_3
-#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="海外",Tennis Channel
-https://pixman.mytvsuper.com.mp/beesport/Tennis_Channel_Live_TV
-#EXTINF:-1 tvg-id="La-Liga-TV" tvg-name="LaLiga TV" tvg-logo="https://assets.livednow.com/logo/La-Liga-TV.png" group-title="海外",LaLiga TV
-https://pixman.mytvsuper.com.mp/beesport/La_Liga_TV_Live_TV
-#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax West" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="海外",Cinemax West
-https://pixman.mytvsuper.com.mp/beesport/Cinemax_West_Live_TV
-#EXTINF:-1 tvg-id="UK-Great-Movies" tvg-name="Great Movies" tvg-logo="https://assets.livednow.com/logo/UK-Great-Movies.png" group-title="海外",Great Movies
-https://pixman.mytvsuper.com.mp/beesport/UK_Great_Movies_Live_TV
-#EXTINF:-1 tvg-id="UK-Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/UK-Cartoon-Network.png" group-title="海外",Cartoon Network
-https://pixman.mytvsuper.com.mp/beesport/UK_Cartoon_Network_Live_TV
-#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://assets.livednow.com/logo/Golf-Channel.png" group-title="海外",Golf Channel
-https://pixman.mytvsuper.com.mp/beesport/Golf_Channel_Live_TV
-#EXTINF:-1 tvg-id="Willow-Cricket" tvg-name="Willow Cricket" tvg-logo="https://assets.livednow.com/logo/Willow-Cricket.png" group-title="海外",Willow Cricket
-https://pixman.mytvsuper.com.mp/beesport/Willow_Cricket_Live_TV
-#EXTINF:-1 tvg-id="Willow-Extra" tvg-name="Willow Extra" tvg-logo="https://assets.livednow.com/logo/Willow-Extra.png" group-title="海外",Willow Extra
-https://pixman.mytvsuper.com.mp/beesport/Willow_Extra_Live_TV
-#EXTINF:-1 tvg-id="World-Fishing-Network" tvg-name="World Fishing Network" tvg-logo="https://assets.livednow.com/logo/World-Fishing-Network.png" group-title="海外",World Fishing Network
-https://pixman.mytvsuper.com.mp/beesport/World_Fishing_Network_Live_TV
-#EXTINF:-1 tvg-id="Fight-Network" tvg-name="Fight Network" tvg-logo="https://assets.livednow.com/logo/Fight-Network.png" group-title="海外",Fight Network
-https://pixman.mytvsuper.com.mp/beesport/Fight_Network_Live_TV
-#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://assets.livednow.com/logo/MUTV.png" group-title="海外",MUTV
-https://pixman.mytvsuper.com.mp/beesport/MUTV_Live_TV
-#EXTINF:-1 tvg-id="LFC-TV" tvg-name="LFC TV" tvg-logo="https://assets.livednow.com/logo/LFC-TV.png" group-title="海外",LFC TV
-https://pixman.mytvsuper.com.mp/beesport/LFC_TV_Live_TV
-#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://assets.livednow.com/logo/ACC-Network.png" group-title="海外",ACC Network
-https://pixman.mytvsuper.com.mp/beesport/ACC_Network_Live_TV
-#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="海外",CBS Sports Network
-https://pixman.mytvsuper.com.mp/beesport/CBS_Sports_Network_Live_TV
+
 
 #EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CGTN",CGTN
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8?IASHttpSessionId=
@@ -524,132 +379,83 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-id="24" tvg-name="CGTN阿语" tvg-logo="https://assets.livednow.com/logo/CGTN-阿拉伯语.png" group-title="CGTN",CGTN العربية
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000356/index.m3u8?IASHttpSessionId=
 
-#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1983年春晚
+#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1983年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1984年春晚
+#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1984年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1985年春晚
+#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1985年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1986年春晚
+#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1986年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1987年春晚
+#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1988年春晚
+#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1988年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1989年春晚
+#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1989年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1992年春晚
+#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1992年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1993年春晚
+#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1993年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1994年春晚
+#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1994年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1995年春晚
+#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1995年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1996年春晚
+#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1996年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1997年春晚
+#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1997年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1998年春晚
+#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1998年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1999年春晚
+#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1999年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2000年春晚
+#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2000年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2001年春晚
+#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2001年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2002年春晚
+#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2002年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2003年春晚
+#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2003年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2004年春晚
+#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2004年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2005年春晚
+#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2005年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2006年春晚
+#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2006年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2007年春晚
+#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2007年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2008年春晚
+#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2008年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2009年春晚
+#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2009年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2010年春晚
+#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2010年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2011年春晚
+#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2011年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2012年春晚
+#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2012年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2013年春晚
+#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2013年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2014年春晚
+#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2014年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2015年春晚
+#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2015年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2016年春晚
+#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2016年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2017年春晚
+#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2017年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2018年春晚
+#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2018年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2019年春晚
+#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2019年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2020年春晚
+#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2020年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2021年春晚
+#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2021年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2022年春晚
+#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2022年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2023年春晚" tvg-name="2023年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2023年春晚
+#EXTINF:-1 tvg-id="2023年春晚" tvg-name="2023年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2023年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2024年春晚
+#EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" tvg-logo="https://hub.gitmirror.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong",Jade 4K
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong",Jade
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="Hong Kong",TVB Plus
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong",TVB News
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong",Pearl
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="Hong Kong",Asian Drama
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="Hong Kong",TVB Entertainment
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="美亞电影台" tvg-name="美亞电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="香港",Meiah Movie
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/hk-1/AKTV.m3u8	
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/凤凰卫视中文.png" group-title="Hong Kong",Phoenix TV
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/凤凰卫视资讯.png" group-title="Hong Kong",Phoenix News
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="Hong Kong",Phoenix Hong Kong
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="Hong Kong",ViuTVsix
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/viutv696/AKTV.m3u8	
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="Hong Kong",ViuTV
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="Hong Kong",KIX
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="Hong Kong",Love Nature
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" group-title="Hong Kong" tvg-id="559" tvg-logo="https://assets.livednow.com/logo/PopC.png",PopC
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="Rock Action" group-title="Hong Kong" tvg-id="aktv/rockaction" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png",ROCK Action
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="Hong Kong",Thrill
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="Hong Kong",Animax
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon-East" tvg-name="Nickelodeon East" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="Hong Kong",Nickelodeon
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="Hong Kong",Nick Jr
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="Hong Kong",BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="Hong Kong",France 24
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="Hong Kong",DW
-https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/dw/AKTV.m3u8
