@@ -158,7 +158,7 @@ http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 https://live.hkdvb.com/hls/live/800.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳台",TVB Plus
+#EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://raw.github.site/fanmingming/live/main/tv/TVBPlus.png" group-title="港澳台",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="港澳台",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -204,9 +204,9 @@ https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
 https://live.hkdvb.com/hls/live/630.m3u8?token=263664245636508
 #EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="港澳台",Now Sports 2
 https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="港澳台",Now Sports 641
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-hk.png" group-title="港澳台",Now Sports 641
 https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="港澳台",Now Sports 642
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-hk.png" group-title="港澳台",Now Sports 642
 https://live.hkdvb.com/hls/live/642.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="港澳台",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
