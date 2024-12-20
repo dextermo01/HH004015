@@ -204,9 +204,9 @@ https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
 https://live.hkdvb.com/hls/live/630.m3u8?token=263664245636508
 #EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-2-hk.png" group-title="港澳台",Now Sports 2
 https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-hk.png" group-title="港澳台",Now Sports 641
+#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-641.png" group-title="港澳台",Now Sports 641
 https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-hk.png" group-title="港澳台",Now Sports 642
+#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-642.png" group-title="港澳台",Now Sports 642
 https://live.hkdvb.com/hls/live/642.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="港澳台",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
