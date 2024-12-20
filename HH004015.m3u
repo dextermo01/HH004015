@@ -273,19 +273,19 @@ https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn17
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="港澳台",Smart知识台
 https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn19
 
-#EXTINF:-1 tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/日テレNEWS24.png" group-title="日韩新",日テレNEWS24
+#EXTINF:-1 tvg-logo="https://raw.github.site/dextermo01/HH004015/main/logo/日テレNEWS24.png" group-title="日韩新",日テレNEWS24
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="日韩新",NHK World Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="日韩新",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-5.png" group-title="日韩新",Channel 5
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/singapore/channel-5-sg.png" group-title="日韩新",Channel 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-8.png" group-title="日韩新",Channel 8
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/singapore/channel-8-sg.png" group-title="日韩新",Channel 8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/Channel-U.png" group-title="日韩新",Channel U
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/singapore/channel-u-sg.png" group-title="日韩新",Channel U
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/CNA.png" tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="日韩新",CNA
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/singapore/cna-sg.png" tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="日韩新",CNA
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="海外",BBC News
