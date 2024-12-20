@@ -198,11 +198,11 @@ http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="港澳台",Now 新闻台
 https://live.hkdvb.com/hls/live/332.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="港澳台",Now Sports 英超1台
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="港澳台",Now Sports 英超1台
 https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="港澳台",Now Sports Prime
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-prime-hk.png" group-title="港澳台",Now Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="港澳台",Now Sports 2
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-2-hk.png" group-title="港澳台",Now Sports 2
 https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
 #EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-hk.png" group-title="港澳台",Now Sports 641
 https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
@@ -273,7 +273,7 @@ https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn17
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="港澳台",Smart知识台
 https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn19
 
-#EXTINF:-1 tvg-logo="https://raw.github.site/dextermo01/HH004015/main/logo/日テレNEWS24.png" group-title="日韩新",日テレNEWS24
+#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/日テレNEWS24.png" group-title="日韩新",日テレNEWS24
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="日韩新",NHK World Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
