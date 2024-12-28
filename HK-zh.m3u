@@ -6,9 +6,9 @@ https://live.hkdvb.com/hls/live/31.m3u8?token=263664245636508
 https://live.hkdvb.com/hls/live/32.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="港台電視-33" tvg-name="港台電視 33" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK33.png" group-title="香港免費電視",港台電視33
 https://live.hkdvb.com/hls/live/33.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-34" tvg-name="港台電視 34" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="香港免費電視",港台電視34
+#EXTINF:-1 tvg-id="CGTN-纪录" tvg-name="CGTN 纪录" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="香港免費電視",港台電視34
 https://live.hkdvb.com/hls/live/34.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-35" tvg-name="港台電視 35" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="香港免費電視",港台電視35
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="香港免費電視",港台電視35
 https://live.hkdvb.com/hls/live/35.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="HOY-國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="香港免費電視",HOY 國際財經台
 https://live.hkdvb.com/hls/live/76.m3u8?token=263664245636508
