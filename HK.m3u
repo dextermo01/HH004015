@@ -112,7 +112,7 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 https://live.hkdvb.com/hls/live/201.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="Movie",LT Movie
 https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn03
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="Movie",靖天电影台
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="Movie",Jingtian Movie
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="Drama",LT Drama
