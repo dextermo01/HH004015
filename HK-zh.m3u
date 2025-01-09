@@ -56,11 +56,11 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="558" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="無綫電視",TVB 星河
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/凤凰卫视中文.png" group-title="Phoenix",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://assets.livednow.com/logo/凤凰卫视中文.png" group-title="鳳凰衛視",鳳凰衛視中文台
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/凤凰卫视资讯.png" group-title="Phoenix",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://assets.livednow.com/logo/凤凰卫视资讯.png" group-title="鳳凰衛視",鳳凰衛視資訊台
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="Phoenix",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="鳳凰衛視",鳳凰衛視香港台
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="電訊盈科",ViuTVsix
