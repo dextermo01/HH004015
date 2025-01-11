@@ -110,61 +110,14 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="美亞电影台" tvg-name="美亞电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="Movie",Mei Ah Movie Channel (Backup)
 https://live.hkdvb.com/hls/live/201.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="Movie",LT Movie
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn03
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="Movie",Jingtian Movie
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="Drama",LT Drama
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn18
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="Drama",LT Idol
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn12
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="Drama",LT J/K-Drama
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn11
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="Drama",LT Classic
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn21
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="Drama",Taiwan Drama
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn22
-
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="Variety",asia Travel
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn17
-#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="Variety",SMART
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn19
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="Variety",KIX
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="Other",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="Variety",tvN
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="Other",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-
 #EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="Other",Love Nature
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="Other",Animax
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="Other",LT Cartoon
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn01
-
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="Taiwan",TTV
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="Taiwan",TTV News
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv051
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="Taiwan",CTV
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="Taiwan",CTV News
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="Taiwan",CTS
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv041
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="Taiwan",CTS News and Info
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="Taiwan",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="Taiwan",TVBS News
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="Taiwan",Global News
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn14
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="Taiwan",Global News Taiwan
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn15
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="Taiwan",Global Finance
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=litv-longturn23
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="Taiwan",CTi Asia
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="Taiwan",CTi News
-https://www.mytvsuper.com.mp/oufei/ofiii_all.php?id=4gtv-4gtv009
