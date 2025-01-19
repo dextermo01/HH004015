@@ -1,35 +1,35 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml"
 
 #EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視 31" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK31.png" group-title="HKDTMB",RTHK TV 31
-https://live.hkdvb.com/hls/live/31.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/31.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="港台電視-32" tvg-name="港台電視 32" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK32.png" group-title="HKDTMB",RTHK TV 32
-https://live.hkdvb.com/hls/live/32.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/32.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="港台電視-33" tvg-name="港台電視 33" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK33.png" group-title="HKDTMB",RTHK TV 33
-https://live.hkdvb.com/hls/live/33.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/33.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="港台電視-34" tvg-name="港台電視 34" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="HKDTMB",RTHK TV 34
-https://live.hkdvb.com/hls/live/34.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/34.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="港台電視-35" tvg-name="港台電視 35" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="HKDTMB",RTHK TV 35
-https://live.hkdvb.com/hls/live/35.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/35.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="HOY-國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="HKDTMB",HOY International Business Channel
-https://live.hkdvb.com/hls/live/76.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/76.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://assets.livednow.com/logo/HOYTV.png" group-title="HKDTMB",HOY TV
-https://live.hkdvb.com/hls/live/77.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/77.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" group-title="HKDTMB",HOY Infotainment
-https://live.hkdvb.com/hls/live/78.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/78.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="HKDTMB",TVB Jade
-https://live.hkdvb.com/hls/live/81.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/81.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="HKDTMB",TVB Plus
-https://live.hkdvb.com/hls/live/82.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/82.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="HKDTMB",TVB News Channel
-https://live.hkdvb.com/hls/live/83.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/83.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="HKDTMB",TVB Pearl
-https://live.hkdvb.com/hls/live/84.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/84.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="HKDTMB",Phoenix Hong Kong Channel
-https://live.hkdvb.com/hls/live/85.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/85.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="HKDTMB",ViuTVsix
-https://live.hkdvb.com/hls/live/96.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/96.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="HKDTMB",ViuTV
-https://live.hkdvb.com/hls/live/99.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/99.m3u8?token=263664245618572
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB",TVB Jade
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
@@ -42,11 +42,11 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="TVB",Asian Drama
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="557" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="TVB",Chinese Drama
-https://live.hkdvb.com/hls/live/89.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/89.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="TVB",Classic Movies
-https://live.hkdvb.com/hls/live/200.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/200.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="TVB",Golden Chinese Drama
-https://live.hkdvb.com/hls/live/90.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/90.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="TVB",Golden Jade
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-id="555" tvg-name="千禧经典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="TVB",TVB Classic
@@ -68,17 +68,17 @@ http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="PCCW",ViuTV
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="PCCW",Now News
-https://live.hkdvb.com/hls/live/332.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/332.m3u8?token=263664245618572
 #EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="PCCW",Now Sports Premier League 1
-https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/621.m3u8?token=263664245618572
 #EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-prime-hk.png" group-title="PCCW",Now Sports Prime
-https://live.hkdvb.com/hls/live/630.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/630.m3u8?token=263664245618572
 #EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-2-hk.png" group-title="PCCW",Now Sports 2
-https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/632.m3u8?token=263664245618572
 #EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-641.png" group-title="PCCW",Now Sports 641
-https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/641.m3u8?token=263664245618572
 #EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-642.png" group-title="PCCW",Now Sports 642
-https://live.hkdvb.com/hls/live/642.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/642.m3u8?token=263664245618572
 
 #EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/singapore/channel-5-sg.png" group-title="Mediacorp",Channel 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -109,7 +109,7 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-id="美亞电影台" tvg-name="美亞电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="Movie",Mei Ah Movie Channel
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="美亞电影台" tvg-name="美亞电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="Movie",Mei Ah Movie Channel (Backup)
-https://live.hkdvb.com/hls/live/201.m3u8?token=263664245636508
+https://live.hkdvb.com/hls/live/201.m3u8?token=263664245618572
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="Movie",Jingtian Movie
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
