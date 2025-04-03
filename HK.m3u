@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="TVB",TVB Jade
 http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://github.com/fanmingming/live/raw/main/tv/TVBPlus.png" group-title="TVB",TVB Plus
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/raw/main/tv/TVBPlus.png" group-title="TVB",TVB Plus
 http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="TVB",TVB News
 http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
@@ -27,13 +27,13 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="PCCW",ViuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/singapore/channel-5-sg.png" group-title="Mediacorp",Channel 5
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/github.com/tv-logo/tv-logos/raw/main/countries/singapore/channel-5-sg.png" group-title="Mediacorp",Channel 5
 http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/singapore/channel-8-sg.png" group-title="Mediacorp",Channel 8
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/github.com/tv-logo/tv-logos/raw/main/countries/singapore/channel-8-sg.png" group-title="Mediacorp",Channel 8
 http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/singapore/channel-u-sg.png" group-title="Mediacorp",Channel U
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/github.com/tv-logo/tv-logos/raw/main/countries/singapore/channel-u-sg.png" group-title="Mediacorp",Channel U
 http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/singapore/cna-sg.png" tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="Mediacorp",CNA
+#EXTINF:-1 tvg-logo="https://gh-proxy.com/github.com/tv-logo/tv-logos/raw/main/countries/singapore/cna-sg.png" tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" group-title="Mediacorp",CNA
 http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="News",BBC News
