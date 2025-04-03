@@ -1,210 +1,114 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/all.xml"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
+http://107.174.52.32/itv.php?id=CCTV1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV-2 财经
-http://tv.20191209.xyz:37377/migu/631780532.m3u8?migutoken=862217ff2cffee0a741039e700509cb8f9a8b1920fe6cee55afb89ef1551eba3ecc744e93cf8e52cd8b4bf1a27c7a074745b640058072bfa4ad145917cdeb959261218d7b78174684a74ae78
+http://107.174.52.32/itv.php?id=CCTV2
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://tv.20191209.xyz:37377/migu/624878271.m3u8?migutoken=6bf1444e1fd674ffdba5c57e719cecb87358abd9dfd0059ccfaceb24503ca14f393ec4b44fc2a4b2b5eded13d1f30a2052d85600414a1274345fcd95bd9848cf13bffeef1945f996928f0095
+http://107.174.52.32/itv.php?id=CCTV3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://tv.20191209.xyz:37377/migu/631780421.m3u8?migutoken=40b6a739d50c9611ac1bd3d6237cc8012f7bd8bd06945da894d03e393a3af480e950d8dc5e1a28cc2b74626afd48a747c2298114358e3f95be67743f3627ea5c2b12422eb6f434b52d57ce8c
+http://107.174.52.32/itv.php?id=CCTV4
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV-5 体育
-http://tv.20191209.xyz:37377/migu/641886683.m3u8?migutoken=81d12cec2983a402e950068a320720875c9b84d86ead50b7ee5cc3d407f55f3d85a8e298762710bc211027e047162ea27025e20dda4ac4921a6c1d8b950dbe297e15174889d5122c0e3462d0
+http://107.174.52.32/itv.php?id=CCTV5
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV-5+ 体育赛事
-http://tv.20191209.xyz:37377/migu/641886773.m3u8?migutoken=dfc218ce4c1ff00475c0aef03e0b883bf8a277b36671d5ca1eb7cc5f7ce7919d01ee050351170891d6e103aa7adea25827c13c901ccf6cdf4a8a370e7fd90c8b198dcb1e8814bbf2ed4fb0c8
+http://107.174.52.32/itv.php?id=CCTV5+
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV-6 电影
-http://tv.20191209.xyz:37377/migu/624878396.m3u8?migutoken=14b6f481c50ac947cd74bf4b212c490bc99f4bebefd4ce18011c9eb269208a0ce9740af370135e855763df734bac8f57f36721ae54b6afc81829420e84f46c65a2de80938b057c6ec23459eb
+http://107.174.52.32/itv.php?id=CCTV6
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://tv.20191209.xyz:37377/migu/673168121.m3u8?migutoken=76fbb50f9a12de455452a0b92fde921c6a9a596f2e4035246492270152653570a478746ff105876f101081cb38974e61faa26aebb018bef93a4d7b8a840fa3beb2b478fdb581d84460caa867
+http://107.174.52.32/itv.php?id=CCTV7
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://tv.20191209.xyz:37377/migu/624878356.m3u8?migutoken=9d347588ab808559db972d3c94b0d970ec130153e4a6dde98c4466f1d3f85f58de23d16994f2f0ed903aa6727a7282cb17103e67b69c8e3f31d253bb78039a4df119e2cfeba6916d123a8003
+http://107.174.52.32/itv.php?id=CCTV8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://tv.20191209.xyz:37377/migu/673168140.m3u8?migutoken=f031388105c748c586faaad9c60beb6810562043675d6edc5e20d12b433d4ca6cb365c3f3ae060a000a9d0dfcfe0e27fef16bfe073d28cb40758aaa79ab380a9015815cfe9bfc4e6413e284a
+http://107.174.52.32/itv.php?id=CCTV9
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV-10 科教
-http://tv.20191209.xyz:37377/migu/624878405.m3u8?migutoken=06cf776d6a6cbe5cb707174dfad937c2164030bf7ce5f589493870891966f9cdaa5f56bad6e7874d683d5b1e3d9a6e59d0f7c78276d5ec47d979ae42b67833e261a2dda0118f3edcabd6a85b
+http://107.174.52.32/itv.php?id=CCTV10
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://tv.20191209.xyz:37377/migu/667987558.m3u8?migutoken=d3962834d5d359e6f7f25a8880b73dac381a999ef87ba6b7f0f985bb5308a73061bbf5a9abdf873debb3b83b31eb7eff72f410c853c86f404b3f3ef269aeb631982e338f1400adcaf902fff7
+http://107.174.52.32/itv.php?id=CCTV11
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://tv.20191209.xyz:37377/migu/673168185.m3u8?migutoken=3d92babc7a67aec41de5c1dc227d2bd8fd9aa5b6b3edb965f88dd9646adaa606101488515fe666e97721c2225a097e6a0f713f1e60f7427247164488ed52f9ec583d71d650f5382f878e71aa
+http://107.174.52.32/itv.php?id=CCTV12
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://tv.20191209.xyz:37377/migu/608807423.m3u8?migutoken=948b8b51df7e776bcf238bb9088879a2b71a25a424b0d80d5e71375315cda109c5aab5c79693c4324d45ad012e70208234f659abbe606a595a03d29e06ce931ed56f129fbc95a505ab84f72c
+http://107.174.52.32/itv.php?id=CCTV13
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://tv.20191209.xyz:37377/migu/624878440.m3u8?migutoken=d84c14c00275d7fa951be2b0a959b0c1af15c62e7f86732fa2306e3a92f447f5b841e0cc26645dc89e70e970812e2c07c2fe24ae5c02b854544ed8c99d6c6d668a402d58cf351e77b5311afd
+http://107.174.52.32/itv.php?id=CCTV14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
+http://107.174.52.32/itv.php?id=CCTV15
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=CCTV16
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
+http://107.174.52.32/itv.php?id=CCTV17
 
 #EXTINF:-1 tvg-id="92" tvg-name="黑龙江卫视" tvg-logo="https://assets.livednow.com/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=黑龙江卫视
 #EXTINF:-1 tvg-id="294" tvg-name="黑龙江新闻法制" tvg-logo="https://epg.iill.top/logo/黑龙江新闻.png" group-title="黑龙江",黑龙江新闻法制
-http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226330/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225967/1.m3u8?
 #EXTINF:-1 tvg-id="295" tvg-name="黑龙江都市" tvg-logo="https://epg.iill.top/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226427/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225969/1.m3u8?
 #EXTINF:-1 tvg-id="296" tvg-name="黑龙江文体" tvg-logo="https://epg.iill.top/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225965/1.m3u8?
 #EXTINF:-1 tvg-id="297" tvg-name="黑龙江影视" tvg-logo="https://epg.iill.top/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="293" tvg-name="黑龙江农业科教" tvg-logo="https://epg.iill.top/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225973/1.m3u8?
 #EXTINF:-1 tvg-id="292" tvg-name="黑龙江少儿" tvg-logo="https://epg.iill.top/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226304/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221225979/1.m3u8?
 
 #EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/CHONGQHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=重庆卫视
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" group-title="卫视",四川卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=四川卫视
 #EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=贵州卫视
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="卫视",东方卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=东方卫视
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=湖南卫视
 #EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视",广东卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=广东卫视
 #EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=深圳卫视
 #EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="https://assets.livednow.com/logo/天津卫视.png" group-title="卫视",天津卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=天津卫视
 #EXTINF:-1 tvg-id="85" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=湖北卫视
 #EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=辽宁卫视
 #EXTINF:-1 tvg-id="87" tvg-name="安徽卫视" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=安徽卫视
 #EXTINF:-1 tvg-id="88" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/ZHEJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=浙江卫视
 #EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title="卫视",山东卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/SHANDHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=山东卫视
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视",北京卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=北京卫视
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=江苏卫视
 #EXTINF:-1 tvg-id="93" tvg-name="河北卫视" tvg-logo="https://assets.livednow.com/logo/河北卫视.png" group-title="卫视",河北卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=河北卫视
 #EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title="卫视",云南卫视
-http://ct.370829.xyz:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+http://107.174.52.32/itv.php?id=云南卫视
 #EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视",江西卫视
-http://218.58.136.82:352/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+http://107.174.52.32/itv.php?id=江西卫视
 #EXTINF:-1 tvg-id="96" tvg-name="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" group-title="卫视",东南卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=东南卫视
 #EXTINF:-1 tvg-id="97" tvg-name="海南卫视" tvg-logo="https://assets.livednow.com/logo/海南卫视.png" group-title="卫视",海南卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=海南卫视
 #EXTINF:-1 tvg-id="98" tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=吉林卫视
 #EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://ct.370829.xyz:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+http://107.174.52.32/itv.php?id=甘肃卫视
 #EXTINF:-1 tvg-id="100" tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视",河南卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=河南卫视
 #EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" tvg-logo="https://assets.livednow.com/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+http://107.174.52.32/itv.php?id=内蒙古卫视
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://ct.370829.xyz:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
+http://107.174.52.32/itv.php?id=陕西卫视
 #EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://assets.livednow.com/logo/广西卫视.png" group-title="卫视",广西卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800%24LR%E2%80%A2IPV4
+http://107.174.52.32/itv.php?id=广西卫视
 #EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视",青海卫视
-http://ct.370829.xyz:35455/itv/5000000006000040015.m3u8?cdn=bestzb
+http://107.174.52.32/itv.php?id=青海卫视
 #EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://assets.livednow.com/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://ct.370829.xyz:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
+http://107.174.52.32/itv.php?id=新疆卫视
 #EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://ct.370829.xyz:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
+http://107.174.52.32/itv.php?id=西藏卫视
 #EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://ct.370829.xyz:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
+http://107.174.52.32/itv.php?id=宁夏卫视
 #EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://assets.livednow.com/logo/山西卫视.png" group-title="卫视",山西卫视
-http://ct.370829.xyz:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
-
-#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CGTN",CGTN
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="CGTN纪录" tvg-logo="https://assets.livednow.com/logo/CGTN-纪录.png" group-title="CGTN",CGTN Documentary
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="https://assets.livednow.com/logo/CGTN-俄语.png" group-title="CGTN",CGTN Русский
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" tvg-logo="https://assets.livednow.com/logo/CGTN-法语.png" group-title="CGTN",CGTN Français
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="CGTN西语" tvg-logo="https://assets.livednow.com/logo/CGTN-西班牙语.png" group-title="CGTN",CGTN Español
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="CGTN阿语" tvg-logo="https://assets.livednow.com/logo/CGTN-阿拉伯语.png" group-title="CGTN",CGTN العربية
-https://0472.org/hls/cgtna.m3u8
-
-#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1983年春晚
-http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1984年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1985年春晚
-http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1986年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1987年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1988年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1989年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1992年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1993年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1994年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1995年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1996年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1997年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1998年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",1999年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2000年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2001年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2002年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2003年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2004年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2005年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2006年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2007年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2008年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2009年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2010年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2011年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2012年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2013年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2014年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2015年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2016年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2017年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2018年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2019年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2020年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2021年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2022年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2023年春晚" tvg-name="2023年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2023年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" tvg-logo="http://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历年春晚",2024年春晚
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+http://107.174.52.32/itv.php?id=山西卫视
